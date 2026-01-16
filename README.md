@@ -36,7 +36,6 @@ This project is created as part of an assignment to showcase **problem understan
 ---
 
 ## 📐 Assumptions Made
-- This is a **frontend-focused assignment**, so no real backend or database is used.
 - Cart and orders are stored using frontend state (Context API).
 - Authentication and role-based access are not implemented.
 - Data resets on page refresh, which is acceptable for this assignment.
